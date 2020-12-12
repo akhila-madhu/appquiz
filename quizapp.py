@@ -1,6 +1,6 @@
 import database
 
-MENU_PROMPT = """-- Coffee Bean App --
+MENU_PROMPT = """-- Quiz App --
 Please choose one of these options:
 1) Add a question.
 2).find question by topic.
